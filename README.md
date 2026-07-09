@@ -16,18 +16,15 @@
 
 <br>
 
-## ✨ Fun Fact
-- 🤡  I'm an Otaku, te-he ;D
-- explaner terkuat di bumi
+
 
 <br>
 
 ## 🌱 I'm currently learning
 - Express
 - Django
-- Flutter
 - Nextjs
-
+- Reactjs
 <br>
 
 ## 💼 Technical Skills
